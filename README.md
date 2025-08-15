@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning **Salesforce and AWS Cloud**
 
-- 👯 I’m looking to collaborate on **Java, Salesforce, AWS Cloud**
+- 👯 I’m looking to collaborate on **Java backend projects, Salesforce automation, and AWS Cloud solutions**
 
-- 💬 Ask me about **Java, Python, DSA,**
+- 💬 Ask me about **Spring Boot, REST APIs, SQL, Data Structures, and Algorithms**
 
 - 📫 How to reach me **haindu.15@gmail.com**
 
